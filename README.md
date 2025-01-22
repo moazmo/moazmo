@@ -10,7 +10,7 @@
 </p>
 
 
-- 🏢 I'm a Software and AI Engineer.
+- 🏢 I'm a Software and AI Engineer student.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with python, Data Structure, Algorithms, Database, OOP.
 
