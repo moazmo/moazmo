@@ -16,7 +16,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/%D9%85%D8%B9%D8%A7%D8%B0-%D9%85%D8%AD%D9%85%D8%AF-301238269/" target="_blank" title="My LinkedIn Account"><img src="https://img.shields.io/badge/-Moaz%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%D9%85%D8%B9%D8%A7%D8%B0-%D9%85%D8%AD%D9%85%D8%AF-301238269/" target="_blank" title="My LinkedIn Account"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/moaz.mahmed.75" target="_blank" title="My Facebook Account"><img src="https://img.shields.io/badge/-Moaz%20Muhammad-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </a>
 
