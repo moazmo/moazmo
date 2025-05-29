@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Software and AI Engineer student.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with python, Data Structure, Algorithms, Database, OOP.
+- 💬 Ask me about my experience with Python, Data Structures & Algorithms, HTML, CSS, JavaScript, Database, OOP.
 
 ### Connect with Me :
 
@@ -25,6 +25,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![DSA](https://img.shields.io/badge/-DSA-05122A?style=flat&logo=algorithm&logoColor=FFA518)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
 ![GUI](https://img.shields.io/badge/-GUI-05122A?style=flat&logo=gui)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
