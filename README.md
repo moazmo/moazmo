@@ -1,37 +1,60 @@
-<img width="200" align="right" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true">
-
-<h3 align="center">
-  Welcome to Moaz Muhammad profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Moaz Muhammad</h1>
+<h3 align="center">AI Engineer · LLM Systems, Agentic RAG & Multi-Agent Orchestration</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20engineering%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=480&height=40&color=58A6FF&vCenter=true&size=22&lines=Building+production+LLM+systems;Agentic+RAG+that+doesn't+hallucinate;LangGraph+%C2%B7+LangChain+%C2%B7+Python" alt="typing" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/moazmuhammad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:moazmo27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://secureagentrag-web.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-- 🏢 I'm a Software and AI Engineer student.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, Data Structures & Algorithms, HTML, CSS, JavaScript, Database, OOP.
+---
 
-### Connect with Me :
+I build production LLM systems — **agentic RAG, multi-agent orchestration, and document-grounded AI**.
+Most RAG systems answer confidently even when they're wrong. I build ones that **retrieve with hybrid search, verify every claim against the source, and enforce citations** — in English and Arabic.
 
-<a href="https://www.linkedin.com/in/%D9%85%D8%B9%D8%A7%D8%B0-%D9%85%D8%AD%D9%85%D8%AF-301238269/" target="_blank" title="My LinkedIn Account"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/moaz.mahmed.75" target="_blank" title="My Facebook Account"><img src="https://img.shields.io/badge/-Moaz%20Muhammad-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-</a>
+📍 Cairo, Egypt · available remote across MENA, EU & US time zones.
 
-### 🛠 &nbsp;Tech Stack
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[SecureAgentRAG](https://github.com/moazmo/secureagentrag)** · [🔴 Live](https://secureagentrag-web.vercel.app/) | Privacy-first multi-agent RAG — 9-node LangGraph pipeline, hybrid retrieval, claim verification, 656 tests, full observability. Live BYOK demo at **$0/mo**. | `LangGraph` `FastAPI` `Qdrant` `Next.js` |
+| **[Al-Muhami Al-Zaki](https://github.com/moazmo/Al-Muhami-Al-Zaki)** | Corrective RAG for Egyptian law — self-grading retrieval, mandatory citations, Arabic PII anonymization (Law 151/2020). | `LangGraph` `Qdrant` `Arabic NLP` |
+| **[Skill-Gap Masr](https://github.com/moazmo/SkillGapMasr)** · [🔴 Live](https://skillgapmasr.streamlit.app/) | RAG career advisor — skill-gap analysis between CVs and Egyptian tech jobs. | `LangChain` `Groq` `Streamlit` |
+
+---
+
+### 🛠 Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![DSA](https://img.shields.io/badge/-DSA-05122A?style=flat&logo=algorithm&logoColor=FFA518)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
-![GUI](https://img.shields.io/badge/-GUI-05122A?style=flat&logo=gui)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langchain)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Qdrant](https://img.shields.io/badge/-Qdrant-05122A?style=flat&logo=qdrant)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=huggingface)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moazmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center"><i>Currently studying Computer Science & AI at Helwan University.</i></p>
