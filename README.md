@@ -53,8 +53,9 @@ Most RAG systems answer confidently even when they're wrong. I build ones that *
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moazmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img src="https://komarev.com/ghpvc/?username=moazmo&color=58a6ff&style=flat&label=Profile+Views" alt="views" />
+  <a href="https://github.com/moazmo?tab=followers"><img src="https://img.shields.io/github/followers/moazmo?label=Followers&style=flat&color=58a6ff" alt="followers" /></a>
+  <a href="https://github.com/moazmo?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-58a6ff?style=flat&logo=github" alt="repos" /></a>
 </p>
 
 <p align="center"><i>Currently studying Computer Science & AI at Helwan University.</i></p>
