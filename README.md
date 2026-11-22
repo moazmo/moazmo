@@ -49,7 +49,7 @@ The repository is private.
 
 ### 🏆 Recent
 
-- **Finalist, CU AI Nexus 2026 Hackathon** (Cairo University): AI FrienDoc, an Egyptian-Arabic clinical scribe with a drug-safety engine, built with Kasr Al-Ainy doctors (Team Dengineers, vice team leader).
+- 🥇 **1st Place, CU AI Nexus 2026 Hackathon** (Cairo University, Nov 2026; EGP 100,000 first prize): AI FrienDoc, an Egyptian-Arabic clinical scribe with a drug-safety engine, built with Kasr Al-Ainy doctors (Team Dengineers, vice team leader).
 - **NTG Clarity**: Summer Training Internship in Artificial Intelligence (LLM agents, LangGraph), Aug – Sep 2026.
 
 ---
